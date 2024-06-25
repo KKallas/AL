@@ -1,4 +1,7 @@
-# AL: Artificial Logic - Mastering Automation with Wisdom, Precision and a backup plan
+![image](https://github.com/KKallas/AL/assets/37544886/57d69d89-f3e8-4072-970b-26d8a63dc746)
+
+# AL: Artificial Logic
+Mastering Automation with Wisdom, Precision and a backup plan
 
 ## Introducing a New Era in Python Programming
 Embrace **AL** (Artificial Logic), our JupyterLab extension that intertwines AI intelligence with the pioneering spirit of Ada Lovelace. 
