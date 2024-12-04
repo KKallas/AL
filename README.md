@@ -33,7 +33,6 @@ AL's novel interface is designed for versatility without complexity. 1st point a
 - **JupyterLab Copilot**: JupyterLab interface to Ollama assistants, with code isolation, context, and image descriptions.
 - **JupyterLab Execution Watchdog**: AI cell runner that attempts to execute cells, asks an AI assistant to fix errors, and retries with corrected code.
 - **Ollama Subrental**: Rent your Ollama server for AL usage.
-- **Embedded Assistant for Versatile Platforms**: AI assistance tailored specifically for Unreal Editor and Blender via a tool-side Python server.
 
 ## Customization: Crafting Your Code Companion
 AL is like that cool open-source project that actually welcomes newbies. Got an idea? A bug fix? A meme that perfectly describes a coding problem? We want it all!
