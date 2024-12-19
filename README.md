@@ -17,7 +17,7 @@ By balancing detailed self-explanatory steps against a need for adaptability, AL
 
 ### Layered Functionality: A Spectrum of Assistance
 AL's interface is designed for versatility without complexity:
-- **Jupyter-lab copilot** - Jupyter-lab interface to ollama assiants, with code isolation, cotext and image descriptions
+- **Jupyter-lab copilot** - Jupyter-lab interface to ollama assiants, with code isolation, context and image descriptions
 - **Jupyter-lab execution Watchdog** - Jupyter-lab ai cell runner, will try to run cells, if it will find an error will ask an AI assitant to fix this, and will try again with fixed code.
 - **Chat copilot** - Chat GPT like end software assistant. Web AI chat interface directly connected to Blender, Unreal Engine or...
 - **Ollama subretal** - Rent Your Ollama server for AL useage.
