@@ -1,27 +1,46 @@
 ![image](https://github.com/KKallas/AL/assets/37544886/57d69d89-f3e8-4072-970b-26d8a63dc746)
 
 # AL: Artificial Logic
-Mastering Automation with Wisdom, Precision and a backup plan
+Mastering Automation with Wisdom, Precision, and a Backup Plan
 
-## Introducing a New Era in Python Programming
-Embrace **AL** (Artificial Logic), our JupyterLab extension that intertwines AI intelligence with the pioneering spirit of Ada Lovelace. 
+## Because your code deserves better than "it works on my machine"
+Ever wished your late-night coding sessions with AI came with a "morning after" recap? Meet AL (Artificial Logic) - your new coding companion that turns fleeting AI chats into lasting, executable poetry. Inspired by the pioneering spirit of Ada Lovelace, AL is a JupyterLab extension that brings AI intelligence to your fingertips, allowing you to create ultra-simple automations with the ease of a conversation and the power of machine learning.
 
-## Core Philosophies: The Pillars of Progressive Code Development
-AL's foundation rests on principles that assure its position as both intuitive and sophisticated - simplicity. 
+## What's the deal?
+AL is a command-line superhero that:
+* Chats with AI like you're sliding into LLM's DMs
+* Automagically saves your convos as Jupyter notebooks
+* Lets you replay your genius moments (or facepalms) with ease
 
-### KISS - The Simplicity Paradigm for Complex Systems
-The intelligent structuring of automations within AL — within a limit of 15 steps per sequence—ensures manageable workloads, making it easier for developers to focus on quality results without getting overwhelmed by complexity.
+## Why should you care?
+* **Never lose your "Eureka!" moments again** Every AI interaction becomes a Jupyter notebook. It's like having a photographic memory, but for code.
+* **Rewind and replay like a coding time lord** Developed a cool process? Just hit play and watch the magic unfold. It's your personal "Ctrl+Z" for entire development sessions.
+* **Human-readable docs that don't suck** Finally, documentation your future self won't curse at. Perfect for when you need to explain your work to mere mortals (or your boss).
+* **LLM fine-tuning made easy** Your chats become training data for smarter AI. It's like teaching a robot to fish, but cooler.
+* **Your safety net when $#!% hits the fan** System crash? AI went rogue? No worries, you've got human-readable backups. It's like having a code bunker for the AI apocalypse.
 
-### Balance - many simple steps achive complicated results
-By balancing detailed self-explanatory steps against a need for adaptability, AL's structural approach to code ensures that even as specific use cases diverge from the main repo, they remain accessible through flexible dissemination channels like git or IM.
+## 3 simple rules
+### 1. KISS - Keep It Simple, Stupid
+AL structures automations within a limit of 15 steps per sequence, ensuring manageable workloads. This allows developers to focus on quality results without being overwhelmed by complexity.
 
-### Layered Functionality: A Spectrum of Assistance
-AL's interface is designed for versatility without complexity:
-- **Jupyter-lab copilot** - Jupyter-lab interface to ollama assiants, with code isolation, context and image descriptions
-- **Jupyter-lab execution Watchdog** - Jupyter-lab ai cell runner, will try to run cells, if it will find an error will ask an AI assitant to fix this, and will try again with fixed code.
-- **Chat copilot** - Chat GPT like end software assistant. Web AI chat interface directly connected to Blender, Unreal Engine or...
-- **Ollama subretal** - Rent Your Ollama server for AL useage.
-- **Embedded Assistant for Versatile Platforms** - Harness AI assistance tailored specifically to Unreal Editor and Blender, toolside python server.
+### 2. Balance - Many Simple Steps Achieve Complicated Results
+By balancing detailed, self-explanatory steps with adaptability, AL's approach to code ensures that even as specific use cases diverge from the main repository, they remain accessible through flexible dissemination channels like Git or instant messaging.
 
-### Customization: Crafting Your Code Companion
-The ethos of AL is grounded in practical application: users are encouraged to take library solutions as starting points for customization—a process that not only tailors functionality but also fosters community growth when successful adaptations become part of the main repo.
+### 3. Layered Functionality: A Spectrum of Assistance
+AL's novel interface is designed for versatility without complexity. 1st point and click automation and only then bells and whistles.
+
+## Parts of AL
+- **JupyterLab Copilot**: JupyterLab interface to Ollama assistants, with code isolation, context, and image descriptions.
+- **JupyterLab Execution Watchdog**: AI cell runner that attempts to execute cells, asks an AI assistant to fix errors, and retries with corrected code.
+- **Ollama Subrental**: Rent your Ollama server for AL usage.
+
+## Customization: Crafting Your Code Companion
+AL is like that cool open-source project that actually welcomes newbies. Got an idea? A bug fix? A meme that perfectly describes a coding problem? We want it all!
+* Found a bug? Open an issue!
+* Got a feature idea? Pull requests are sexy!
+* Want to spruce up the docs? Don't forget to use AL in the process!
+
+## TL;DR
+AL turns your AI coding sessions into replayable, documented, and actually useful stuff. It's like having a really smart rubber duck that writes down everything you say.
+Ready to make your future self thank you? Dive in and let's make coding cooler!
+
